@@ -7,3 +7,4 @@ find the below  list of animal
 4.Chicken
 5.Eggs
 6.Carrot.
+Commits are completed.
