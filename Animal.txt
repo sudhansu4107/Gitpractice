@@ -7,8 +7,14 @@ find the below  list of animal
 4.Chicken
 5.Eggs
 6.Carrot.
+<<<<<<< HEAD
 
 file creation completed.
 
 Commits are completed.
+
+
+Commits are completed.
+
+We have the plans to move into Devops.
 
